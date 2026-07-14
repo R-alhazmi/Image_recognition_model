@@ -1,0 +1,2 @@
+0 Real_Images
+1 AI_Generated_Images
